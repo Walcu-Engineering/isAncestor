@@ -1,0 +1,22 @@
+{
+  "name": "@walcu-engineering/isancestor",
+  "version": "1.0.0",
+  "description": "Function that checks if a JSON Pointer path is ancestor of another JSON Pointer path",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walcu-Engineering/isAncestor.git"
+  },
+  "author": "Jose García Lozano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Walcu-Engineering/isAncestor/issues"
+  },
+  "homepage": "https://github.com/Walcu-Engineering/isAncestor#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
