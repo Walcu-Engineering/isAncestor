@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Walcu-Engineering/isAncestor#readme",
   "devDependencies": {
     "jest": "^29.0.2"
+  },
+  "dependencies": {
+    "@walcu-engineering/isjsonpointer": "^1.0.0"
   }
 }
